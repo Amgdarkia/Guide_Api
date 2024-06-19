@@ -1,0 +1,6 @@
+@FirstApiTry_HostAddress = http://localhost:5162
+
+GET {{FirstApiTry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
